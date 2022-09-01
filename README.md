@@ -11,7 +11,7 @@ A simple wrapper class around PyAutoGUI for POS ui control tasks.
 
 
 ## Setup
-Install PyAitoGUI
+Install PyAutoGUI
 ```
 pip install PyAutoGUI
 ```
